@@ -18,32 +18,29 @@ This project addresses the challenges of maintaining large-scale farms that use 
 
 For a comprehensive demonstration of the Smart-Aquarium in action, please watch the [Video Demonstration]().
 
-![image](https://github.com/RaphaelNazareth/FarmRobot/assets/86475236/593181e4-422b-4763-b940-9c1653388ca6)
+![Screenshot 2024-05-27 191340](https://github.com/RaphaelNazareth/Farm-Robot/assets/86475236/0f248f23-bd08-404b-8b2a-7a2b81adcd81)
+
 
 *image: first page of the application*
 
-![image](https://github.com/RaphaelNazareth/FarmRobot/assets/86475236/b0ddd23a-3d56-4f3d-9a75-00cd718c8e65)
+![Screenshot 2024-05-27 191411](https://github.com/RaphaelNazareth/Farm-Robot/assets/86475236/3271c836-c051-4879-b4f6-55a21e531e94)
 
 
 *image: interactable login page with local database*
 
-![image](https://github.com/RaphaelNazareth/FarmRobot/assets/86475236/a457179a-719e-4998-91f4-44ee3eabb2b5)
-
+![Screenshot 2024-05-27 191455](https://github.com/RaphaelNazareth/Farm-Robot/assets/86475236/cc6c2ee1-ace5-4117-8ebb-147151a7a4cb)
 
 *image: homepage for monitoring sensors & interactable circular progress bar*
 
-![image](https://github.com/RaphaelNazareth/FarmRobot/assets/86475236/f7212ed3-da26-46a4-b1a8-5bda4eb37e8c)
-
+![Screenshot 2024-05-27 191741](https://github.com/RaphaelNazareth/Farm-Robot/assets/86475236/6b7653a3-4a45-4514-8867-6cd461817aaf)
 
 *image: Temperature page with historical graph and Circular Progress Bar *
 
-![image](https://github.com/RaphaelNazareth/FarmRobot/assets/86475236/9cb01fd8-e5e6-4aea-9c5d-5a4997312104)
-
+![Screenshot 2024-05-27 191810](https://github.com/RaphaelNazareth/Farm-Robot/assets/86475236/02531bfb-a09d-42fc-90a4-b5573f2049af)
 
 *image: Soil moisture page with historical graph and Circular Progress Bar *
 
-![image](https://github.com/RaphaelNazareth/FarmRobot/assets/86475236/faa350bc-0eb9-4aa2-85b9-33c58eaf03ce)
-
+![Screenshot 2024-05-27 191832](https://github.com/RaphaelNazareth/Farm-Robot/assets/86475236/aa436891-7426-4572-b1a0-0a2d1ec70ad5)
 
 *image: Humidity page with historical graph and Circular Progress Bar *
 
