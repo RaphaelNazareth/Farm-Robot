@@ -44,4 +44,8 @@ For a comprehensive demonstration of the Smart-Aquarium in action, please watch 
 
 *image: Humidity page with historical graph and Circular Progress Bar *
 
+![WhatsApp Image 2024-05-30 at 22 17 01_b6b6b667](https://github.com/RaphaelNazareth/Farm-Robot/assets/86475236/e3851712-a1a2-40ff-9f37-d9899cd98f83)
+
+*image: application in real phone *
+
 [Return to top](https://github.com/RaphaelNazareth/FarmRobot)
